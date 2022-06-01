@@ -54,12 +54,14 @@ a:focus, a:active, a:hover, textarea:focus, textarea:active, textarea:hover, inp
   02. Typography
 ---*/
 body {
-  font-family: "Roboto Mono", "Helvetica Neue", sans-serif;
+  font-family: "Amatic SC", cursive;
+  /* font-family: "Roboto Mono", "Helvetica Neue", sans-serif; */
   font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Work Sans", "Helvetica Neue", sans-serif;
+  font-family: "Amatic SC", cursive;
+  /* font-family: "Work Sans", "Helvetica Neue", sans-serif; */
 }
 
 @media screen and (max-width: 768px) {
