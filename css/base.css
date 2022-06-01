@@ -1989,6 +1989,8 @@ header {
 header .brand {
   display: inline-block;
   margin-top: 25px;
+  font-size: large;
+  font-style: bold;
 }
 
 header .menu {
